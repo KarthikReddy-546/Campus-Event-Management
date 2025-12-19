@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+p{
+    background-color: white;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+button{
+    color: black;
+    background-color: bisque;
+    padding: 10px 20px;
+    font-size: 15px;
+}
